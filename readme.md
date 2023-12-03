@@ -46,6 +46,7 @@ php artisan migrate
 ```
 php artisan serve
 ```
+
 copy & paste `http://127.0.0.1:8000/` ke browser anda.
 
 # *➡️ TAMPILAN*
