@@ -48,7 +48,6 @@ php artisan serve
 ```
 copy & paste `http://127.0.0.1:8000/` ke browser anda.
 
-
 # *➡️ TAMPILAN*
 ## Home
 ![Screenshot (492)](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/cb1a0bad-327e-4239-9c92-f41e41bb1753)
