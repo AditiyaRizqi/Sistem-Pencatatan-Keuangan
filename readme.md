@@ -15,6 +15,40 @@ Sistem ini merupakan implementasi dari project laravel yang dirancang untuk memu
 # *➡️ STRUCTURE*
 ![Screenshot (490)](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/b737dc37-d412-47ba-a26a-4fbdc416315e)
 
+# *ℹ️: LANGKAH-LANGKAH*
+## 1. Clone Project File / Download File
+Clone Project dengan perintah terminal `gitbash` sebagai berikut:
+```
+git clone https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan.git
+```
+Atau bisa klik tombol download Zip dan extrak file tersebut
+## 2. Buat Database
+Buat Database dengan nama `laravel`
+## 3. Ubah File ENV
+Ubah file dari `.env.example` menjadi `.env`
+
+## 4. Set Up
+Buka Terminal di proyek folder Anda dan jalankan perintah dibawah ini:
+```
+composer install
+```
+```
+composer update
+```
+
+Bila Muncul informasi 'requirements could not be resolved to an installable-set' masukan perintah di bawah ini:
+```
+composer update --ignore-platform-reqs
+```
+php artisan key:generate
+```
+php artisan migrate
+```
+php artisan serve
+```
+copy & paste `http://127.0.0.1:8000/` ke browser anda.
+
+
 # *➡️ TAMPILAN*
 ## Home
 ![Screenshot (492)](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/cb1a0bad-327e-4239-9c92-f41e41bb1753)
