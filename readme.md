@@ -11,9 +11,10 @@ Sistem ini merupakan implementasi dari project laravel yang dirancang untuk memu
 # *➡️ ERD*
 ![image (6)](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/0479c554-3317-4c95-87ed-ab24ed98e74c)
 # *➡️ DATABASE*
-![Screenshot (491)](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/6b689a5b-3f68-4e10-8ee7-58791054819b)
+![Screenshot (515)](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/c355417b-bcdc-457f-a130-86bbb679ead9)
 # *➡️ STRUCTURE*
-![Screenshot (490)](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/b737dc37-d412-47ba-a26a-4fbdc416315e)
+![Screenshot (514)](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/4cc01368-d300-468a-8956-9562b6017316)
+
 
 # *ℹ️: LANGKAH-LANGKAH*
 ## 1. Clone Project File / Download File
