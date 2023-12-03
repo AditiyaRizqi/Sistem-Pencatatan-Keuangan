@@ -1,4 +1,4 @@
-# *:information_source: SISTEM INFORMASI PENCATATAN KEUANGAN*
+# *:information_source: SISTEM INFORMASI AKUNTANSI PENCATATAN KEUANGAN*
 Sistem ini merupakan implementasi dari project laravel yang dirancang untuk memudahkan pencatatan pemasukan dan pengeluaran keuangan suatu organisasi atau perusahaan dengan menggunakan Framework Laravel 6.2 dan PHP Versi 7.2. 
 
 # *:gear: Requirement*
