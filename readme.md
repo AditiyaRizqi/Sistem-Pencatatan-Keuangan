@@ -50,7 +50,7 @@ php artisan migrate
 php artisan serve
 ```
 
-Copy Paste Link Di Bawah Ini Pada Browser Anda
+Copy Paste Link Tertampil ke Browser Anda
 ```
 http://127.0.0.1:8000/
 ```
