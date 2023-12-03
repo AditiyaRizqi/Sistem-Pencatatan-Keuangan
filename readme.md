@@ -4,7 +4,7 @@ Sistem ini merupakan implementasi dari project laravel yang dirancang untuk memu
 # *:gear: Requirement*
 ## Berikut beberapa aplikasi yang perlu diinstal terlebih dahulu:
 1. XAMPP 7.2.x (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/)
-2. Composer (https://getcomposer
+2. Composer (https://getcomposer)
 
 # *➡️ FLOWCHART*
 ![flowchart SIA](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/dd3068ea-4ba9-42a7-9573-abd3c9eb5dff)
