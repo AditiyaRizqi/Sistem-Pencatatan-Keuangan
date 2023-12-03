@@ -47,7 +47,7 @@ php artisan migrate
 php artisan serve
 ```
 
-copy & paste `http://127.0.0.1:8000/` ke browser anda.
+
 
 # *➡️ TAMPILAN*
 ## Home
@@ -56,5 +56,3 @@ copy & paste `http://127.0.0.1:8000/` ke browser anda.
 ![Screenshot (493)](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/c60b6075-2366-4250-8577-7e84167c2fb2)
 ## Transaksi
 ![Screenshot (494)](https://github.com/AditiyaRizqi/Sistem-Pencatatan-Keuangan/assets/151179136/4daf64ad-82fc-473d-8cbc-80df89e5a01e)
-
-
