@@ -1,7 +1,7 @@
 Sistem ini merupakan implementasi dari project laravel yang dirancang untuk memudahkan pencatatan pemasukan dan pengeluaran keuangan suatu organisasi atau perusahaan dengan menggunakan Framework Laravel 6.2 dan PHP Versi 7.2. 
 
 # Prasyarat
-Berikut beberapa hal yang perlu diinstal terlebih dahulu:
+## Berikut beberapa aplikasi yang perlu diinstal terlebih dahulu:
 
 XAMPP 7.2.x (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/)
 
