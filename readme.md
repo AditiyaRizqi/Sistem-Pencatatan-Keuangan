@@ -40,13 +40,18 @@ Bila Muncul informasi 'requirements could not be resolved to an installable-set'
 ```
 composer update --ignore-platform-reqs
 ```
+```
 php artisan key:generate
+```
 ```
 php artisan migrate
 ```
+```
 php artisan serve
 ```
+
 Copy Paste Link Di Bawah Ini Pada Browser Anda
+```
 http://127.0.0.1:8000/
 ```
 
